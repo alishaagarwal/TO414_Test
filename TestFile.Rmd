@@ -1,0 +1,14 @@
+---
+title: "TestFile"
+author: "Alisha Agarwal"
+date: "10/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## RStudio Github Connection Test File
+
+Some random text
